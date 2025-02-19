@@ -14,5 +14,3 @@ pipeline {
       }
     }
 }
-
-// Save this script as a Jenkinsfile and use it in a Jenkins pipeline job.
